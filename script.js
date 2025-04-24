@@ -31,7 +31,7 @@ function component(width, height, color, x, y, type) {
     this.speedX = 0;
     this.speedY = 0;    
     this.gravity = 0.05;
-    this.gravitySpeed = 0;
+    this.gravitySpeed = 2.50;
     this.update = function() {
         ctx = myGameArea.context;
         ctx.fillStyle = color;
