@@ -1,0 +1,48 @@
+---------
+moves.txt
+---------
+
+- Name
+- Description
+- Effect
+- Effect Chance
+- Power
+- Type
+- Accuracy
+- Power Points
+- Priority
+- Category
+- Sub-Category
+- Contact
+
+---------
+stats.txt
+---------
+
+- Name
+- HP
+- Attack
+- Defense
+- SAttack
+- SDefense
+- Speed
+- Growth Rate
+
+---------
+teams.txt
+---------
+
+- Referencing Name
+- In-Game Name
+- Surname
+- Image
+- Music
+- # of Pokémon
+
+- Pokémon
+- Level
+- IVs
+- Move 1
+- Move 2
+- Move 3
+- Move 4

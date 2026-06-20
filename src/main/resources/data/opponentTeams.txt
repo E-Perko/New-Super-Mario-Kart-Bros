@@ -1,0 +1,134 @@
+Rival_1_Charmander
+Gary
+Rival
+rival
+rival
+1
+
+Charmander
+5
+0
+Scratch
+Growl
+------
+------
+
+Rival_1_Squirtle
+Gary
+Rival
+rival
+rival
+1
+
+Squirtle
+5
+0
+Tackle
+Tail Whip
+------
+------
+
+Rival_1_Bulbasaur
+Gary
+Rival
+rival
+rival
+1
+
+Bulbasaur
+5
+0
+Tackle
+Growl
+------
+------
+
+Cynthia_Spiritomb
+Gary
+Rival
+rival
+rival
+1
+
+Spiritomb
+100
+31
+Shadow Ball
+Dark Pulse
+Will-O-Wisp
+Sucker Punch
+
+Cynthia_Roserade
+Gary
+Rival
+rival
+rival
+1
+
+Roserade
+100
+31
+Dazzling Gleam
+Shadow Ball
+Sludge Bomb
+Energy Ball
+
+Cynthia_Togekiss
+Gary
+Rival
+rival
+rival
+1
+
+Togekiss
+100
+31
+Air Slash
+Dazzling Gleam
+Aura Sphere
+Thunder Wave
+
+Cynthia_Milotic
+Gary
+Rival
+rival
+rival
+1
+
+Milotic
+100
+31
+Scald
+------
+------
+------
+
+Cynthia_Lucario
+Gary
+Rival
+rival
+rival
+1
+
+Lucario
+100
+31
+Close Combat
+------
+------
+------
+
+Cynthia_Garchomp
+Gary
+Rival
+rival
+rival
+1
+
+Garchomp
+100
+31
+Earthquake
+------
+------
+------

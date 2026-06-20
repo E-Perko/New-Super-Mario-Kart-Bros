@@ -1,0 +1,87 @@
+Rival_1_Charmander
+1
+
+Bulbasaur
+5
+0
+Tackle
+Growl
+------
+------
+
+Rival_1_Squirtle
+1
+
+Charmander
+5
+0
+Scratch
+Growl
+------
+------
+
+Rival_1_Bulbasaur
+1
+
+Squirtle
+5
+0
+Tackle
+Tail Whip
+------
+------
+
+Player_Zoroark
+1
+
+Zoroark
+100
+31
+Hyper Voice
+Shadow Ball
+Flamethrower
+Psychic
+
+Player_Milotic
+1
+
+Milotic
+100
+31
+Scald
+Ice Beam
+------
+------
+
+Player_Polteageist
+1
+
+Polteageist
+100
+31
+Shadow Ball
+Psychic
+Sucker Punch
+------
+
+Player_Avalugg
+1
+
+Avalugg
+100
+31
+Rapid Spin
+Avalanche
+Body Press
+Recover
+
+Player_Appletun
+1
+
+Appletun
+100
+31
+Apple Acid
+Draco Meteor
+Dragon Pulse
+Recover

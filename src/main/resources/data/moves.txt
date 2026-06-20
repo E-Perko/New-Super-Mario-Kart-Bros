@@ -1,0 +1,389 @@
+Tackle
+Charges the foe with a full-\nbody tackle.
+EFFECT_HIT
+0
+40
+Normal
+100
+35
+0
+Physical
+None
+true
+
+Scratch
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+40
+Normal
+100
+35
+0
+Physical
+None
+true
+
+Growl
+Growls cutely to reduce the\n foe's Attack.
+EFFECT_ATTACK_DOWN
+100
+0
+Normal
+100
+40
+0
+Status
+Sound
+false
+
+Tail Whip
+Wags the tail to lower the\n foe's Defense.
+EFFECT_DEFENSE_DOWN
+100
+0
+Normal
+100
+30
+0
+Status
+None
+false
+
+Shadow Ball
+Scratches the foe with\n sharp claws.
+EFFECT_SPDEFENSE_DOWN
+20
+80
+Ghost
+100
+15
+0
+Special
+Ball
+false
+
+Dark Pulse
+Scratches the foe with\n sharp claws.
+EFFECT_FLINCH
+20
+80
+Dark
+100
+15
+0
+Special
+Pulse
+false
+
+Will-O-Wisp
+Scratches the foe with\n sharp claws.
+EFFECT_BURN
+100
+0
+Fire
+85
+15
+0
+Status
+None
+false
+
+Sucker Punch
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+70
+Dark
+100
+5
+1
+Physical
+None
+true
+
+Dazzling Gleam
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+80
+Fairy
+100
+10
+0
+Special
+None
+false
+
+Sludge Bomb
+Scratches the foe with\n sharp claws.
+EFFECT_POISON
+30
+90
+Poison
+100
+10
+0
+Special
+Bomb
+false
+
+Energy Ball
+Scratches the foe with\n sharp claws.
+EFFECT_SPDEFENSE_DOWN
+10
+90
+Grass
+100
+10
+0
+Special
+Ball
+false
+
+Air Slash
+Scratches the foe with\n sharp claws.
+EFFECT_FLINCH
+30
+75
+Flying
+95
+15
+0
+Special
+Slash
+false
+
+Aura Sphere
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+80
+Fighting
+100
+20
+0
+Special
+Pulse
+false
+
+Thunder Wave
+Scratches the foe with\n sharp claws.
+EFFECT_PARALYZE
+0
+0
+Electric
+85
+20
+0
+Status
+None
+false
+
+Close Combat
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+120
+Fighting
+100
+5
+0
+Physical
+None
+true
+
+Earthquake
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+100
+Ground
+100
+10
+0
+Physical
+None
+false
+
+Scald
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+80
+Water
+100
+10
+0
+Special
+None
+false
+
+Hyper Voice
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Normal
+100
+10
+0
+Special
+Sound
+false
+
+Flamethrower
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Fire
+100
+10
+0
+Special
+None
+false
+
+Psychic
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Psychic
+100
+10
+0
+Special
+None
+false
+
+Meteor Mash
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Steel
+95
+10
+0
+Physical
+None
+true
+
+Ice Beam
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Ice
+100
+10
+0
+Special
+None
+false
+
+Poison Jab
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+90
+Poison
+100
+10
+0
+Physical
+None
+True
+
+Body Press
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+80
+Fighting
+100
+10
+0
+Physical
+None
+True
+
+Avalanche
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+60
+Ice
+100
+10
+0
+Physical
+None
+True
+
+Recover
+Scratches the foe with\n sharp claws.
+EFFECT_HEAL_HALF
+100
+0
+Normal
+100
+10
+0
+Status
+None
+False
+
+Rapid Spin
+Scratches the foe with\n sharp claws.
+EFFECT_ATTACK_DOWN
+100
+55
+Normal
+95
+30
+0
+Physical
+None
+True
+
+Draco Meteor
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+130
+Dragon
+90
+5
+0
+Special
+None
+False
+
+Apple Acid
+Scratches the foe with\n sharp claws.
+EFFECT_SPDEFENSE_DOWN
+100
+90
+Grass
+100
+10
+0
+Special
+None
+False
+
+Dragon Pulse
+Scratches the foe with\n sharp claws.
+EFFECT_HIT
+0
+85
+Dragon
+100
+10
+0
+Special
+None
+False
